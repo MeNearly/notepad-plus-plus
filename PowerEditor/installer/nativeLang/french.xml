@@ -160,7 +160,7 @@ The comments are here for explanation, it's not necessary to translate them.
                     <Item id="42044" name="Transformer les fins de ligne en espaces"/>
                     <Item id="42045" name="Supprimer les espacements et fins de ligne inutiles"/>
                     <Item id="42046" name="Transformer les tabulations en espaces"/>
-                    <Item id="42054" name="Transformer tous les espaces en tabulations"/>
+                    <Item id="42054" name="Transformer toutes les espaces en tabulations"/>
                     <Item id="42053" name="Transformer les espaces de début de ligne en tabulations"/>
                     <Item id="42038" name="Coller du contenu HTML"/>
                     <Item id="42039" name="Coller du contenu RTF"/>
